@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clnall
 - 👀 I’m interested in being an enthusiastic coder. 
-- 🌱 I’m currently learning JavaScript, HTML5, SQL servers
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
