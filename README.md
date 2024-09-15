@@ -1,4 +1,4 @@
-Hello, I am Logan. I don't know what I am but electronics are my top tier interest. Connenct, watch, or star as I slowly become a GitHub gremlin.
+Hello, I am Logan. Connenct, watch, or star as I slowly become a GitHub gremlin.
 
 Short origin story: I am born and raised in Columbia, South Carolina. "SODAAA!" (city). Went to a private catholic school from elementary until middle school. Graduated from the University of South Carolina with a bachelors in Computer Engineering. My youthful passions were magnetics and chemistry. But now, I am more interested in electricity, processors, and coding. I like to think about the low level implementations of coding and projects. I enjoy breaking code with obtuse edge cases because I am just like that. 😈
 <br>
