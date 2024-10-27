@@ -4,7 +4,7 @@ Short origin story: I am born and raised in Columbia, South Carolina. "SODAAA!" 
 <br>
 <br>
 <br>
-Current obsession: Low-voltage electronics. I hate having to change batteries and I am sure you do too! 
+Current obsession: Low-voltage electronics and PCB optimal layouts. As well as comparing, contrasting, and personalizing IDEs.
 <br>
 <br>
 <br>
